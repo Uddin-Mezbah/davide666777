@@ -42,7 +42,3 @@ src="https://img.shields.io/github/followers/davide666777?logo=github&style=for-
 <a href="http://www.github.com/davide666777"><img src="https://activity-graph.herokuapp.com/graph?username=davide666777&bg_color=1c1917&color=22c55e&line=0891b2&point=22c55e&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/davide666777" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davide666777&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
